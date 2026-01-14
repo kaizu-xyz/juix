@@ -1,5 +1,6 @@
 # juix
 
+### Integralism
 
 [New Polity](https://newpolity.com/)
 [Tradistae](https://tradistae.wordpress.com/)
@@ -18,3 +19,27 @@ Books:
 Articles:
 [Essays as New Polity](https://newpolity.com/blog?author=624b47726a859860da2d5bcc)
 [Salazar's Portugal](https://newpolity.com/blog/salazars-portugal)
+
+
+
+### Libertarians
+
+[Mises Institute](https://mises.org/)
+
+
+### Libs
+
+[LibCom](https://libcom.org/)
+
+
+
+### Monarchy
+
+[Monarquia do Norte](https://amonarquiadonorte.blogs.sapo.pt/)
+
+
+
+### Bookstore
+
+
+https://www.imperiumpress.org/
